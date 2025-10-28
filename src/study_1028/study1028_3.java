@@ -22,5 +22,7 @@ public class study1028_3 {
          else
             System.out.println("학점은 F 입니다.");
 
+
+
     }
 }
