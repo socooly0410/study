@@ -19,5 +19,16 @@ public class study1029_arr4 {
             }
             System.out.println();
         }
+
+
+
+//        for (int i = 0; i < intarr.length; i++) {
+//            for (int j = 0; j < intarr.length; j++) {
+//                intarr[i][j] = (i*5) + j + 1;
+//            }
+//        }
+
+
+
     }
 }
