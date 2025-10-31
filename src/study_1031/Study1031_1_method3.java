@@ -1,6 +1,6 @@
 package study_1031;
 
-public class Study1030_1_method3 {
+public class Study1031_1_method3 {
     public static void main(String[] args) {
 
 
